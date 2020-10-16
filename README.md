@@ -5,7 +5,7 @@ This is the completed project from Hongshen Lee
 **In this practice,I complete the whole task with three notebooks:**
 - Wedge Project_Task1.ipynb: Clean and upload the data into GBQ
 - Wedge Project_Task2.ipynb: Carry out GBQ query and load the data into the local files, re-upload into the GBQ(in Wedge Project_Task1.ipynb)
-- Wedge Project_Task2.ipynb: Create three summary tables and sqlite database.
+- Wedge Project_Task3.ipynb: Create three summary tables and sqlite database.
     This task include serval files to submit：
     - sales_by_date_by_hour.csv: summary table data
     - sales_by_owner_by_year_by_month.csv:summary table data
