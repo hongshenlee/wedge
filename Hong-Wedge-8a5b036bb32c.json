@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hong-wedge",
+  "private_key_id": "8a5b036bb32c04bda3bb088e9bf4c376a1542d5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/qhfGtQad2jDP\nbkeHURO+oJg/gtEHPWy7BUkvgA2KTaH2sTRp3dd6lFzN5n60tvyygFaU+C3VwfeR\nfmHNomOafCPBX05QLpgvZPUV2tTu0mdFjKa38YPuMtsl2glNn0Q297L6lCooe09v\nETbiCK6gj8SNBU3c9E5zeRGm5zS8EI8wqlcctRHdSsFZgKgL0WhhJ1pNi9ohagu8\n6pkJp4xDPaTWIVv2+wxkKjAp7B4BE0QTJp+YUWwEkyQ0U5YnkHPCBKLhSmPtPwtW\n8ih8KCeIE/TP5cpHlZlob8qztBe+9yoJIHb03jArNRY6ePWQmjv2iU2r/zVk0SfI\ndiKq5XnbAgMBAAECggEALI86dN+cWLGj/G3KomqWmRCUJNvghfrhXv+lGq5+N2PC\nHmznXx+M27pHczU9yvzp9gQBXSPv4Az25jQIP/sbhgyLcYcbWWfjyM0Db9/O9nEj\nQlenYQd84TGgooW0+P9oqBDhYwF0ZbH5bzyE0nsrQjf6fcC4cAC6hn0kvfVt3LTj\nsuRQSMv3fmGGvbw+7ykniLq7t77GcTIAEPzij+kvSxxkFjXdw81LgxAnVR70GUt6\ne9+0aAW6am1nKh73HcVZh+NM4HxUMTSi/Zo3eCAEYaxjZuimy1J2txAvp1HPWeQr\notqNxJNJbIeXQ11hsT0PBHiM0H16DutpO1A4QMmJ9QKBgQDqj5LJYZmOIyQPdoCD\nsovPcCz+WPge1GV/Xhzm015/GMArwcni/ehOmKZVtZAcO+WzYQVXz90mbr5z/l4h\nQ+opYIHVKtklkpUV0MefDYkoB37atSojSzVwmselJCr5vevl0Kk4b4JUKIxHkNnN\n95jx24sK33PcAoGnBMq9QqWMvQKBgQDRLsw+xOg2wsdNA1GnIpsZKngWcD8dZf6a\nwLmXjRQ/m7j0zlAQOlr9+MBB5fn7VLsdh9hfc/BnfRW59JS7uLRw4vRcuXRu059l\nWBvrCUPDr0/eenfyOXzZBzRaj84YDYknOGdfd44lp9QvOz+ecWHcl1ESbzjz2CZ0\nKMQ6XpEmdwKBgGjgjzpZ2GXUUpBTZPz9vUOgHY4QS8jFISjE9NlEkxDzCSHHgTRs\nYQ2bdWwHRYtKQNdmvxPXTkOb6q5EguQO0Ml1bDfa88K3+s8JTehRDg2G5HJ35IJp\nY1iY7EFrnYeTIsHb/X3NZhGpG6f4HVrZpVom1tGivdQWjtAV9WyQOyNlAoGAfRz+\ncHSZZ1dsmPVpOwwJtC2gkdslBNJiS/EFkE2DVOAw6csUPACLN+g2JbQFpntxRyJf\nGghgO6Wm/wf4habd1b8I5QTPTRIp/hWK7TMnYr1SigC6CRi1QaF7gMcOP3ipFdo4\nifMaBA+za2SGkp/CJowio2H+sGoR5dwUMc0qB9UCgYBrm7uTidh9Bq4HfmrUd70c\nV44tFNbJO1kWjxY9SEn3K3j7vkUj9hi/WZVwilEC9yL9wbsAzamaVS9GHR/0xpml\nIRYxRxAKxPBTlo5komRVN62jZLlhdTeXDmO7q80j5LjXnZg46gOKyn8seRHcUPWH\nD5i0s5xnvhVbJMYYxth+JA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hong-496@hong-wedge.iam.gserviceaccount.com",
+  "client_id": "111417298843469900259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hong-496%40hong-wedge.iam.gserviceaccount.com"
+}
