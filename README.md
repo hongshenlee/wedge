@@ -19,7 +19,18 @@ This is the completed project from Hongshen Lee
 All task files have notes in the first cell, please task a little time to read it, thanks for that! If I made anything wrong or bad, please let me know, both slack or github is ok.(prefer slack)
 
 
+## Feedback
 
+* Don't include your raw data or your authentication file in your repo. I'd urge you to delete the .json file
+soon, since that can be abused by others downloading it and using your billing information. 
+
+* Part 1: Great use of printing to update the user. Everything looks great. 
+* Part 2: Don't print those owners to the screen for final submission (but no need to change now).
+That writing out part could be done more tersely with something like this: 
+`text_file.write("\t".join([str(item) for item in row]) + "\n")`
+* Part 3: Looks great.
+
+Nice job, consider this **complete**.
 
 
  
